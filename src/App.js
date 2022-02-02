@@ -67,6 +67,7 @@ function App() {
             <div className="image">
               <img
                 className="login_img"
+                alt="signIn"
                 src="https://i.ibb.co/CsV9RYZ/login-image.png"
               />
               <button onClick={signIn}>Sign In With Google</button>
